@@ -1,0 +1,56 @@
+body{
+  padding-top:20px;
+  word-wrap:break-word;
+  background-image: url('img/Crumpled-Looseleaf-Paper-Texture.jpg');
+}
+img{
+  height: 400px;
+}
+
+/* .backgroundImg{
+  background-image: url('img/paper2.png');
+} */
+
+.wish{
+  font-style: italic;
+  margin-right: 20%;
+}
+
+/* .containerProfile{
+  background-color: rgb(4, 184, 160);
+  box-shadow: 1rem;
+} */
+
+.well{
+ width: 25%;
+}
+
+input{
+  margin: 5% 0%;
+}
+
+.btn{
+  background-color:bisque;
+  color: black;
+}
+
+.p{
+  margin-top: 1%;
+}
+
+div h1, div .btn-sm{
+  margin-left: 25%;
+}
+
+div .btn{
+  padding: .7%;
+}
+
+h2{
+  font-size: 5rem;
+  text-decoration: underline;
+}
+
+ul{
+  font-size: 3rem;
+}
