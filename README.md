@@ -1,3 +1,11 @@
+# Full-Stack WishList Application
+
+### Goal: Create a fullstack Javascript web application that allows users to signup, login, and post their wish list items. Must be connected to a Node.js server and a MongoDB database. 
+
+*Project completed using HTML, CSS, Javascript, Node.js, Express.js, and MongoDB.*
+
+![WishList project](wishlist.png)
+
 ## Installation
 
 1. Clone repo
